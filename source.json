@@ -1,0 +1,32 @@
+{
+  "name": "Рабочие часы",
+  "identifier": "com.semkin.worktime.source",
+  "subtitle": "Учёт рабочего времени по геозоне",
+  "iconURL": "https://raw.githubusercontent.com/syomkinya1/worktime-releases/main/icon.png",
+  "website": "https://github.com/syomkinya1/worktime-releases",
+  "apps": [
+    {
+      "name": "Рабочие часы",
+      "bundleIdentifier": "com.semkin.worktime",
+      "developerName": "Сёмкин",
+      "subtitle": "Приход и уход по геозоне, ставка, отпускные",
+      "localizedDescription": "Автоматически отмечает приход и уход по геозоне, считает часы, ставку, зарплату за месяц и отпускные.",
+      "iconURL": "https://raw.githubusercontent.com/syomkinya1/worktime-releases/main/icon.png",
+      "tintColor": "#2A5BD7",
+      "screenshotURLs": [],
+      "version": "",
+      "versionDate": "",
+      "versionDescription": "",
+      "downloadURL": "",
+      "size": 0,
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Автоотметка прихода и ухода по геозоне."
+        }
+      }
+    }
+  ],
+  "news": []
+}
