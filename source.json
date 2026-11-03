@@ -21,21 +21,21 @@
       "size": 311693,
       "versions": [
         {
-          "version": "1.4",
-          "buildVersion": "5",
-          "date": "2026-11-03T12:40:00Z",
-          "localizedDescription": "Импорт CSV: несколько интервалов в день, строки с выплатами для отпускных",
-          "downloadURL": "https://github.com/syomkinya1/worktime-releases/releases/download/v1.4/WorkTime.ipa",
-          "size": 306849,
-          "minOSVersion": "17.0"
-        },
-        {
           "version": "1.5",
           "buildVersion": "6",
           "date": "2026-11-03T12:23:48Z",
           "localizedDescription": "Импорт: «Поделиться» из Телеграма прямо в приложение, вставка из буфера обмена, починен выбор файла",
           "downloadURL": "https://github.com/syomkinya1/worktime-releases/releases/download/v1.5/WorkTime.ipa",
           "size": 311693,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.4",
+          "buildVersion": "5",
+          "date": "2026-11-03T12:05:00Z",
+          "localizedDescription": "Импорт CSV: несколько интервалов в день, строки с выплатами для отпускных",
+          "downloadURL": "https://github.com/syomkinya1/worktime-releases/releases/download/v1.4/WorkTime.ipa",
+          "size": 306849,
           "minOSVersion": "17.0"
         },
         {
