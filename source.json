@@ -14,12 +14,21 @@
       "iconURL": "https://raw.githubusercontent.com/syomkinya1/worktime-releases/main/icon.png",
       "tintColor": "#2A5BD7",
       "screenshotURLs": [],
-      "version": "1.1",
+      "version": "1.2",
       "versionDate": "2026-11-03",
-      "versionDescription": "Расчёт по графику (дни в неделю × часы), отпуск, отпускные, зарплата за месяц; норма с учётом предпраздничных дней",
-      "downloadURL": "https://github.com/syomkinya1/worktime-releases/releases/download/v1.1/WorkTime.ipa",
-      "size": 291421,
+      "versionDescription": "Импорт отметок из CSV (вкладка «Месяц», кнопка со стрелкой вниз)",
+      "downloadURL": "https://github.com/syomkinya1/worktime-releases/releases/download/v1.2/WorkTime.ipa",
+      "size": 304446,
       "versions": [
+        {
+          "version": "1.2",
+          "buildVersion": "3",
+          "date": "2026-11-03",
+          "localizedDescription": "Импорт отметок из CSV (вкладка «Месяц», кнопка со стрелкой вниз)",
+          "downloadURL": "https://github.com/syomkinya1/worktime-releases/releases/download/v1.2/WorkTime.ipa",
+          "size": 304446,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.1",
           "buildVersion": "2",
