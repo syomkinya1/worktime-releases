@@ -14,12 +14,21 @@
       "iconURL": "https://raw.githubusercontent.com/syomkinya1/worktime-releases/main/icon.png",
       "tintColor": "#2A5BD7",
       "screenshotURLs": [],
-      "version": "1.2",
+      "version": "1.4",
       "versionDate": "2026-11-03",
-      "versionDescription": "Импорт отметок из CSV (вкладка «Месяц», кнопка со стрелкой вниз)",
-      "downloadURL": "https://github.com/syomkinya1/worktime-releases/releases/download/v1.2/WorkTime.ipa",
-      "size": 304446,
+      "versionDescription": "Импорт CSV: несколько интервалов в день, строки с выплатами для отпускных",
+      "downloadURL": "https://github.com/syomkinya1/worktime-releases/releases/download/v1.4/WorkTime.ipa",
+      "size": 306849,
       "versions": [
+        {
+          "version": "1.4",
+          "buildVersion": "5",
+          "date": "2026-11-03",
+          "localizedDescription": "Импорт CSV: несколько интервалов в день, строки с выплатами для отпускных",
+          "downloadURL": "https://github.com/syomkinya1/worktime-releases/releases/download/v1.4/WorkTime.ipa",
+          "size": 306849,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.2",
           "buildVersion": "3",
