@@ -14,12 +14,21 @@
       "iconURL": "https://raw.githubusercontent.com/syomkinya1/worktime-releases/main/icon.png",
       "tintColor": "#2A5BD7",
       "screenshotURLs": [],
-      "version": "1.5",
-      "versionDate": "2026-11-03T12:23:48Z",
-      "versionDescription": "Импорт: «Поделиться» из Телеграма прямо в приложение, вставка из буфера обмена, починен выбор файла",
-      "downloadURL": "https://github.com/syomkinya1/worktime-releases/releases/download/v1.5/WorkTime.ipa",
-      "size": 311693,
+      "version": "1.6",
+      "versionDate": "2026-11-06T05:57:26Z",
+      "versionDescription": "«Проход» у турникета: кнопка действия, касание задней панели, NFC, Siri. Автоотметки уточняются по истории движения, поправки подстраиваются сами",
+      "downloadURL": "https://github.com/syomkinya1/worktime-releases/releases/download/v1.6/WorkTime.ipa",
+      "size": 390025,
       "versions": [
+        {
+          "version": "1.6",
+          "buildVersion": "7",
+          "date": "2026-11-06T05:57:26Z",
+          "localizedDescription": "«Проход» у турникета: кнопка действия, касание задней панели, NFC, Siri. Автоотметки уточняются по истории движения, поправки подстраиваются сами",
+          "downloadURL": "https://github.com/syomkinya1/worktime-releases/releases/download/v1.6/WorkTime.ipa",
+          "size": 390025,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.5",
           "buildVersion": "6",
