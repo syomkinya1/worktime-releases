@@ -14,12 +14,21 @@
       "iconURL": "https://raw.githubusercontent.com/syomkinya1/worktime-releases/main/icon.png",
       "tintColor": "#2A5BD7",
       "screenshotURLs": [],
-      "version": "1.6",
-      "versionDate": "2026-11-06T05:57:26Z",
-      "versionDescription": "«Проход» у турникета: кнопка действия, касание задней панели, NFC, Siri. Автоотметки уточняются по истории движения, поправки подстраиваются сами",
-      "downloadURL": "https://github.com/syomkinya1/worktime-releases/releases/download/v1.6/WorkTime.ipa",
-      "size": 390025,
+      "version": "1.7",
+      "versionDate": "2026-11-06T07:23:27Z",
+      "versionDescription": "Момент прохода двери по шагомеру: при срабатывании зоны GPS на несколько секунд меряет расстояние до входа, шагомер отматывает назад. Кнопка «Я у входа — запомнить дверь»",
+      "downloadURL": "https://github.com/syomkinya1/worktime-releases/releases/download/v1.7/WorkTime.ipa",
+      "size": 416087,
       "versions": [
+        {
+          "version": "1.7",
+          "buildVersion": "8",
+          "date": "2026-11-06T07:23:27Z",
+          "localizedDescription": "Момент прохода двери по шагомеру: при срабатывании зоны GPS на несколько секунд меряет расстояние до входа, шагомер отматывает назад. Кнопка «Я у входа — запомнить дверь»",
+          "downloadURL": "https://github.com/syomkinya1/worktime-releases/releases/download/v1.7/WorkTime.ipa",
+          "size": 416087,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.6",
           "buildVersion": "7",
