@@ -93,6 +93,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.3",
+          "buildVersion": "3",
+          "date": "2026-11-20T11:20:54Z",
+          "localizedDescription": "Кнопка: сначала запись без открытия, если iOS не даёт — приложение мигает и прячется; стоп в фоне. Обрезка записей. Сборка на Xcode 26",
+          "downloadURL": "https://github.com/syomkinya1/worktime-releases/releases/download/rec-v0.3/Recorder.ipa",
+          "size": 26362063,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.2",
           "buildVersion": "2",
           "date": "2026-11-20T09:39:35Z",
@@ -111,11 +120,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.2",
-      "versionDate": "2026-11-20T09:39:35Z",
-      "versionDescription": "Отправка в Избранное Telegram, третий вариант кнопки (ссылка), журнал расширения для диагностики кнопки",
-      "downloadURL": "https://github.com/syomkinya1/worktime-releases/releases/download/rec-v0.2/Recorder.ipa",
-      "size": 26443782
+      "version": "0.3",
+      "versionDate": "2026-11-20T11:20:54Z",
+      "versionDescription": "Кнопка: сначала запись без открытия, если iOS не даёт — приложение мигает и прячется; стоп в фоне. Обрезка записей. Сборка на Xcode 26",
+      "downloadURL": "https://github.com/syomkinya1/worktime-releases/releases/download/rec-v0.3/Recorder.ipa",
+      "size": 26362063
     }
   ],
   "news": []
