@@ -93,6 +93,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2",
+          "buildVersion": "2",
+          "date": "2026-11-20T09:39:35Z",
+          "localizedDescription": "Отправка в Избранное Telegram, третий вариант кнопки (ссылка), журнал расширения для диагностики кнопки",
+          "downloadURL": "https://github.com/syomkinya1/worktime-releases/releases/download/rec-v0.2/Recorder.ipa",
+          "size": 26443782,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.1",
           "buildVersion": "1",
           "date": "2026-11-20T08:51:40Z",
@@ -102,11 +111,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.1",
-      "versionDate": "2026-11-20T08:51:40Z",
-      "versionDescription": "Проверочная версия: кнопка действия, запись вместе с музыкой и видео, всегда микрофон iPhone, журнал событий",
-      "downloadURL": "https://github.com/syomkinya1/worktime-releases/releases/download/rec-v0.1/Recorder.ipa",
-      "size": 251689
+      "version": "0.2",
+      "versionDate": "2026-11-20T09:39:35Z",
+      "versionDescription": "Отправка в Избранное Telegram, третий вариант кнопки (ссылка), журнал расширения для диагностики кнопки",
+      "downloadURL": "https://github.com/syomkinya1/worktime-releases/releases/download/rec-v0.2/Recorder.ipa",
+      "size": 26443782
     }
   ],
   "news": []
