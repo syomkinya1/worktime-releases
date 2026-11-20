@@ -93,6 +93,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.4",
+          "buildVersion": "4",
+          "date": "2026-11-20T15:21:33Z",
+          "localizedDescription": "Кнопка: запись в фоне не отменяется, если Live Activity выключены; повтор при первом запуске; проверка, что звук реально пишется",
+          "downloadURL": "https://github.com/syomkinya1/worktime-releases/releases/download/rec-v0.4/Recorder.ipa",
+          "size": 26362184,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.3",
           "buildVersion": "3",
           "date": "2026-11-20T11:20:54Z",
@@ -120,11 +129,11 @@
           "minOSVersion": "18.0"
         }
       ],
-      "version": "0.3",
-      "versionDate": "2026-11-20T11:20:54Z",
-      "versionDescription": "Кнопка: сначала запись без открытия, если iOS не даёт — приложение мигает и прячется; стоп в фоне. Обрезка записей. Сборка на Xcode 26",
-      "downloadURL": "https://github.com/syomkinya1/worktime-releases/releases/download/rec-v0.3/Recorder.ipa",
-      "size": 26362063
+      "version": "0.4",
+      "versionDate": "2026-11-20T15:21:33Z",
+      "versionDescription": "Кнопка: запись в фоне не отменяется, если Live Activity выключены; повтор при первом запуске; проверка, что звук реально пишется",
+      "downloadURL": "https://github.com/syomkinya1/worktime-releases/releases/download/rec-v0.4/Recorder.ipa",
+      "size": 26362184
     }
   ],
   "news": []
