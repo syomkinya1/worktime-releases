@@ -81,6 +81,32 @@
           "NSLocationAlwaysAndWhenInUseUsageDescription": "Автоотметка прихода и ухода по геозоне."
         }
       }
+    },
+    {
+      "name": "Запись",
+      "bundleIdentifier": "com.semkin.recorder",
+      "developerName": "Сёмкин",
+      "subtitle": "Диктофон, который не обрывается от музыки и видео",
+      "localizedDescription": "Запись по кнопке действия без открытия приложения, параллельно с музыкой и видео в наушниках, всегда с микрофона iPhone.",
+      "iconURL": "https://raw.githubusercontent.com/syomkinya1/worktime-releases/main/recorder-icon.png",
+      "tintColor": "#D93838",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "0.1",
+          "buildVersion": "1",
+          "date": "2026-11-20T08:51:40Z",
+          "localizedDescription": "Проверочная версия: кнопка действия, запись вместе с музыкой и видео, всегда микрофон iPhone, журнал событий",
+          "downloadURL": "https://github.com/syomkinya1/worktime-releases/releases/download/rec-v0.1/Recorder.ipa",
+          "size": 251689,
+          "minOSVersion": "18.0"
+        }
+      ],
+      "version": "0.1",
+      "versionDate": "2026-11-20T08:51:40Z",
+      "versionDescription": "Проверочная версия: кнопка действия, запись вместе с музыкой и видео, всегда микрофон iPhone, журнал событий",
+      "downloadURL": "https://github.com/syomkinya1/worktime-releases/releases/download/rec-v0.1/Recorder.ipa",
+      "size": 251689
     }
   ],
   "news": []
