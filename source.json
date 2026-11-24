@@ -134,6 +134,32 @@
       "versionDescription": "Кнопка: запись в фоне не отменяется, если Live Activity выключены; повтор при первом запуске; проверка, что звук реально пишется",
       "downloadURL": "https://github.com/syomkinya1/worktime-releases/releases/download/rec-v0.4/Recorder.ipa",
       "size": 26362184
+    },
+    {
+      "name": "Календарь удачи",
+      "bundleIdentifier": "com.semkin.luckcalendar",
+      "developerName": "Сёмкин",
+      "subtitle": "Китайская книга и луна по часам",
+      "localizedDescription": "Хорошие и плохие дни по китайской книге года Красной лошади и лунному календарю, луна по часам, виджеты и утреннее уведомление.",
+      "iconURL": "https://raw.githubusercontent.com/syomkinya1/worktime-releases/main/luckcalendar-icon.png",
+      "tintColor": "#A9301B",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-11-24T15:40:43Z",
+          "localizedDescription": "Первая версия: сегодня, месяц, день, луна по часам, книга, хорошие и плохие дни, настройки, легенда, виджеты, утреннее уведомление",
+          "downloadURL": "https://github.com/syomkinya1/worktime-releases/releases/download/luck-v1.0/LuckCalendar.ipa",
+          "size": 2859497,
+          "minOSVersion": "18.0"
+        }
+      ],
+      "version": "1.0",
+      "versionDate": "2026-11-24T15:40:43Z",
+      "versionDescription": "Первая версия: сегодня, месяц, день, луна по часам, книга, хорошие и плохие дни, настройки, легенда, виджеты, утреннее уведомление",
+      "downloadURL": "https://github.com/syomkinya1/worktime-releases/releases/download/luck-v1.0/LuckCalendar.ipa",
+      "size": 2859497
     }
   ],
   "news": []
